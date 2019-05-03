@@ -1,0 +1,1 @@
+$(document).ready(function(){$("#imagesnav").jFlow({slides:"#imageslides",controller:".jFlowControl",slideWrapper:"#jFlowSlide",selectedWrapper:"jFlowSelected",easing:"swing",width:"630px",height:"438px",duration:600,prev:".jFlowPrev",next:".jFlowNext"});});

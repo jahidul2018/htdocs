@@ -1,0 +1,69 @@
+1.  about.php
+2.  abstract.php
+3.  account_activation_mail.php
+4.  acrylic.php
+5.  activate_user.php
+6.  aim.php
+7.  airbrush.php
+8.  allow_arts.php
+9.  allow_auction.php
+10. art_owner.php
+11. art_upload.php
+12. artist.php
+13. artist_guide.php
+14. artworks.php
+15. bidder_guide.php
+16. block_user.php
+17. blocked_users.php
+18. cancel_auction.php
+19. check_reports.php
+20. check_users.php
+21. check_users2.php
+22. collector.php
+23. collector_guide.php
+24. composite.php
+25. contact.php
+26. copyright.php
+27. digital.php
+28. edit_register1.php
+29. edit_register2.php
+30. edit_register3.php
+31. edit_register4.php
+32. evolution.php
+33. faq.php
+34. fine_art.php
+35. landscape.php
+36. Member_guide.php
+37. modern.php
+38. nature.php
+39. oil.php
+40. pop_art.php
+41. portratit.php
+42. print.php
+43. privacy.php
+44. sign_out.php
+45. sign_up2.php
+46. sign_up3.php
+47. still_life.php
+48. terms.php
+49. this_week.php
+50. today.php
+51. user_profile.php
+52. water_colour.php
+53. welcome.php
+54. yesterday.php
+
+
+
+
+
+
+Not Corrected............
+
+
+
+
+
+
+
+11. sign_up4.php (Address Line 2 field's js code needs to fixed. Buttons border-radious were not added)
